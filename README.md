@@ -3,7 +3,7 @@
 I’m a passionate Electrical Engineering graduate with a strong technical edge, creative mindset and combining analytical thinking with real-world decision-making in the tech space.
 .
 
-![Shakurrr's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Shakurrrr's Stats](https://github-readme-stats.vercel.app/api?username=Shakurrrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
