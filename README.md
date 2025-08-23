@@ -19,7 +19,8 @@ I’m a passionate Electrical Engineering graduate with a strong technical edge,
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL and laravel for efficient and scalable database management.
 
- ## 🏆 Achievements
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,kotlin,php)](https://skillicons.dev)
 
 
 
