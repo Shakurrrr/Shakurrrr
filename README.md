@@ -13,7 +13,7 @@ With hands-on experience in **Web Development (HTML, CSS, JavaScript, Python, Dj
 
 ## 🚀 About Me  
 
-- 🎓 First-class graduate in **Electrical Engineering**, currently pursuing a **Master's in Computer Science at IIT Kharagpur**.  
+- 🎓 First-class graduate in **Electrical Engineering**, currently the  **hardware developer at asatauratechnologyservices**.  
 - ✍🏽 Member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), actively contributing to the tech community.  
 - 💡 Strong background in **IoT, embedded systems, and telemedicine solutions**.  
 
