@@ -5,6 +5,14 @@ I build production-minded, clean, and functional software—then wire it to the 
 
 ---
 
+## 📊 GitHub Analytics
+![Shakurrrr's Stats](https://github-readme-stats.vercel.app/api?username=Shakurrrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakurrrr&layout=compact&theme=vue-dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakurrrr&theme=vue-dark&hide_border=true)
+
+
+---
+
 ## 🔭 What I’m shipping right now
 - **PERCY_BLOG_WEBSITE** — Django 5 CMS with RBAC, CKEditor uploads, featured media, search, and a Tailwind UI.  
   👉 Repo: https://github.com/Shakurrrr/PERCY-BLOG-WEBSITE  
@@ -50,12 +58,6 @@ I build production-minded, clean, and functional software—then wire it to the 
 
 **Also:** CKEditor (uploads), S3 via `django-storages`, Gunicorn/Nginx, Docker (basic), CI/CD on GitHub Actions.
 
----
-
-## 📊 GitHub Analytics
-![Shakurrrr's Stats](https://github-readme-stats.vercel.app/api?username=Shakurrrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakurrrr&layout=compact&theme=vue-dark&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakurrrr&theme=vue-dark&hide_border=true)
 
 ---
 
