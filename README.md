@@ -1,75 +1,71 @@
-# Hi, I'm Shakurrrr! 👋  
+# Hi, I'm Shakurrrr 👋  
+**Electrical Engineering (First-Class)** → **Full-stack Django & IoT/Embedded**
 
-I’m a passionate **Electrical Engineering graduate** with a strong technical edge, creative mindset, and the ability to combine analytical thinking with real-world decision-making in the tech space.  
-
-With hands-on experience in **Web Development (HTML, CSS, JavaScript, Python, Django)**, I enjoy building **clean, functional digital experiences**. I’m also deeply involved in **IoT projects**, where I apply my engineering skills to create **smart, connected systems** that solve real-world problems.  
+I build production-minded, clean, and functional software—then wire it to the real world. My edge: a hardware background paired with Python/Django, which lets me ship end-to-end systems (cloud + firmware + UI) that solve actual problems.
 
 ---
 
+## 🔭 What I’m shipping right now
+- **PERCY_BLOG_WEBSITE** — Django 5 CMS with RBAC, CKEditor uploads, featured media, search, and a Tailwind UI.  
+  👉 Repo: https://github.com/Shakurrrr/PERCY-BLOG-WEBSITE  
+  *Stack:* Django ORM, CKEditor (uploads), Tailwind, S3-ready storage, auth flows, pagination, seed tooling.
+
+---
+
+## 👤 About Me
+- 🎓 First-class graduate in **Electrical Engineering**  
+- 🧰 **Hardware Developer @ Asataura Technology Services LTD** (systems, devices, telemetry)  
+- ✍️ **Hackernoon** Blogging Fellowship contributor  
+- 💡 Strong execution in **IoT, embedded systems, and telemedicine** (real-time monitoring)
+
+---
+
+## 🌱 Currently Focusing On
+- Full-stack **Django** (auth, ORM, admin, testing, production hygiene)  
+- **IoT automation & real-time monitoring** (Raspberry Pi/MCUs → cloud backends)  
+- **Databases:** PostgreSQL (primary). *(Exposure: Laravel/PHP ecosystems.)*  
+- **Mobile:** Android/Kotlin (tooling & launchers)
+
+---
+
+## 🏆 Selected Highlights
+- 🥇 Graduated **First Class** in Electrical Engineering  
+- 🏅 Built a **real-time athlete health monitoring** pipeline (edge compute + telemedicine)  
+- 🔌 Delivered **IoT-based home/industrial automations** (sensors, control, dashboards)  
+- 📖 Published technical insights on **Hackernoon**  
+- 🧪 Ongoing experimentation with **Android launchers** and embedded firmware
+
+---
+
+## 🤝 I’m Open To
+- Open-source collaboration (**Python/Django, IoT/Embedded, Kotlin**)  
+- Healthcare/education/energy **tech-for-good** initiatives  
+- Android tooling and UI/UX-driven utilities  
+- Technical writing & knowledge sharing
+
+---
+
+## ⚙️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,postgres,git,androidstudio,kotlin,raspberrypi,arduino&perline=12)](https://skillicons.dev)
+
+**Also:** CKEditor (uploads), S3 via `django-storages`, Gunicorn/Nginx, Docker (basic), CI/CD on GitHub Actions.
+
+---
+
+## 📊 GitHub Analytics
 ![Shakurrrr's Stats](https://github-readme-stats.vercel.app/api?username=Shakurrrr&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakurrrr&layout=compact&theme=vue-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakurrrr&layout=compact&theme=vue-dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakurrrr&theme=vue-dark&hide_border=true)
 
 ---
 
-## 🚀 About Me  
-
-- 🎓 First-class graduate in **Electrical Engineering**, currently the  **hardware developer at asataura technology services**.  
-- ✍🏽 Member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), actively contributing to the tech community.  
-- 💡 Strong background in **IoT, embedded systems, and telemedicine solutions**.  
-
----
-
-## 🌱 Currently Exploring  
-
-- 🚀 Full Stack Web Development (Front-end + Back-end)  
-- ⚡ Django for **scalable, dynamic back-end experiences**  
-- 🌐 IoT system automation & **real-time monitoring**  
-- 🛠️ Building **server-side apps** with Django  
-- 🗄️ Databases: **PostgreSQL** & **Laravel (PHP)** integration  
-- 📱 **Mobile Development** with Kotlin  
-
----
-
-## 🏆 Achievements  
-
-- 🥇 Graduated with **First Class Honors** in Electrical Engineering  
-- 🏅 Developed a **real-time health monitoring system** for athletes using Raspberry Pi & telemedicine tech  
-- 🔌 Built **custom IoT-based automation systems** for smart living  
-- 📖 Published tech insights on [Hackernoon](https://hackernoon.com/)  
-- 🛠️ Actively experimenting with **Android Launchers** & embedded **IoT projects**  
-
----
-
-## 🤝 Open to Collaboration On  
-
-- 💻 **Open Source projects** (Python, Django, IoT, Kotlin)  
-- 📡 **IoT & Embedded Systems** projects for smart solutions  
-- 🌍 Tech-for-good initiatives in **healthcare, education, and energy**  
-- 📱 Mobile Apps with **Android/Kotlin**  
-- 📝 Technical blogging and **knowledge-sharing platforms**  
-
----
-
-## ⚡ Tech Stack  
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,kotlin,php,django,postgresql,git,androidstudio)](https://skillicons.dev)  
-
----
-
-## 📬 Get in Touch  
-
+## 📫 Connect
 - 🐦 Twitter: [@Elpercy_](https://twitter.com/Elpercy_)  
 - 💼 LinkedIn: [Yusuf Shehu](https://www.linkedin.com/in/yusuf-shehu/)  
-- 📧 Email: **yusufelpercy@gmail.com**  
+- ✉️ Email: **yusufelpercy@gmail.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shakurrrr&style=flat-square&color=blue)
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakurrrr&theme=vue-dark&hide_border=true)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shakurrrr&style=flat-square&color=blue)  
-
----
-
-✨ Thanks for stopping by! 🚀  
-Let’s connect and explore the fascinating world of **technology, IoT, and software development** together.  
-
+*Let’s ship impactful systems—clean backends, sharp UIs, and hardware that actually works.*
