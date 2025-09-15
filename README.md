@@ -1,7 +1,7 @@
 # Hi, I'm Shakurrrr 👋  
 **Electrical Engineering (First-Class)** → **Full-stack Dev & IoT/Embedded**
 
-I build production-minded, clean, and functional software—then wire it to the real world. My edge: a hardware background paired with Python/Django, which lets me ship end-to-end systems (cloud + firmware + UI) that solve actual problems.
+I build production-minded, clean, and functional softwares, then wire it to the real world. My edge: a hardware background paired with Python/Django, which lets me ship end-to-end systems (cloud + firmware + UI) that solve actual problems.
 
 ---
 
