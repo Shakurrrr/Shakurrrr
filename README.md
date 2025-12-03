@@ -23,13 +23,14 @@ I build production-minded, clean, and functional softwares, then wire it to the 
 ## 👤 About Me
 - 🎓 First-class graduate in **Electrical Engineering**  
 - 🧰 **Hardware Developer @ Asataura Technology Services LTD** (systems, devices, telemetry)  
-- ✍️ **Hackernoon** Blogging Fellowship contributor  
+- ✍️ **Medium** https://medium.com/@shehuyusuf For ideas  
 - 💡 Strong execution in **IoT, embedded systems, and telemedicine** (real-time monitoring)
 
 ---
 
 ## 🌱 Currently Focusing On
-- Full-stack **Django** (auth, ORM, admin, testing, production hygiene)  
+- Full-stack **Django** (auth, ORM, admin, testing, production hygiene)
+- **DevOps**  
 - **IoT automation & real-time monitoring** (Raspberry Pi/MCUs → cloud backends)  
 - **Databases:** PostgreSQL (primary). *(Exposure: Laravel/PHP ecosystems.)*  
 - **Mobile:** Android/Kotlin (tooling & launchers)
@@ -40,13 +41,13 @@ I build production-minded, clean, and functional softwares, then wire it to the 
 - 🥇 Graduated **First Class** in Electrical Engineering  
 - 🏅 Built a **real-time athlete health monitoring** pipeline (edge compute + telemedicine)  
 - 🔌 Delivered **IoT-based home/industrial automations** (sensors, control, dashboards)  
-- 📖 Published technical insights on **Hackernoon**  
+- 📖 Published technical insights on **Medium**  
 - 🧪 Ongoing experimentation with **Android launchers** and embedded firmware
 
 ---
 
 ## 🤝 I’m Open To
-- Open-source collaboration (**Python/Django, IoT/Embedded, Kotlin**)  
+- Open-source collaboration (**DevOps, Python/Django, IoT/Embedded, Kotlin**)  
 - Healthcare/education/energy **tech-for-good** initiatives  
 - Android tooling and UI/UX-driven utilities  
 - Technical writing & knowledge sharing
