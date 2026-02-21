@@ -1,5 +1,5 @@
 # Hi, I'm Shakurrrr 👋  
-**Electrical Engineering (First-Class)** → **Full-stack Dev & IoT/Embedded**
+**Electrical Engineering** → **DevOps engineer, Backend Dev & IoT/Embedded**
 
 I build production-minded, clean, and functional softwares, then wire it to the real world. My edge: a DevOps, hardware background paired with Python/Django, which lets me ship end-to-end systems (cloud + firmware + UI) that solve actual problems.
 
@@ -22,7 +22,7 @@ I build production-minded, clean, and functional softwares, then wire it to the 
 
 ## 👤 About Me
 - 🎓 First-class graduate in **Electrical Engineering**  
-- 🧰 **Hardware Developer @ Asataura Technology Services LTD** (systems, devices, telemetry)  
+- 🧰 **Hardware Developer and DevOps engineer @ Asataura Technology Services LTD** (systems, devices, telemetry)  
 - ✍️ **Medium** https://medium.com/@shehuyusuf For ideas  
 - 💡 Strong execution in **IoT, embedded systems, and telemedicine** (real-time monitoring)
 
