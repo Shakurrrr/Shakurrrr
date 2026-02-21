@@ -38,7 +38,8 @@ I build production-minded, clean, and functional softwares, then wire it to the 
 ---
 
 ## 🏆 Selected Highlights
-- 🥇 Graduated **First Class** in Electrical Engineering  
+- 🥇 Graduated **First Class** in Electrical Engineering
+- 🧪 Delivered key DevOps projects between two major startups
 - 🏅 Built a **real-time athlete health monitoring** pipeline (edge compute + telemedicine)  
 - 🔌 Delivered **IoT-based home/industrial automations** (sensors, control, dashboards)  
 - 📖 Published technical insights on **Medium**  
@@ -57,7 +58,7 @@ I build production-minded, clean, and functional softwares, then wire it to the 
 ## ⚙️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,postgres,git,androidstudio,kotlin,raspberrypi,arduino&perline=12)](https://skillicons.dev)
 
-**Also:** CKEditor (uploads), S3 via `django-storages`, Gunicorn/Nginx, Docker (basic), CI/CD on GitHub Actions.
+**Also:** CKEditor (uploads), S3 via `django-storages`, AWS, ArgoCD, Terraform, GitOps, Networking, Linux, Gunicorn/Nginx, Docker (basic), CI/CD on GitHub Actions.
 
 
 ---
